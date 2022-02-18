@@ -1,13 +1,13 @@
 var authConfig = {
-    "siteName": "goindex", // Sitename
+    "siteName": "private film", // Sitename
     "root_pass": "",  // root password, leave it blank if you don't want
     // "version" : "1.0.7", // Program Version
     "hash" : "18bc8f4", // master OR your HASH, do not leave blank (changes each time you make a commit)
     "theme" : "classic", // material  classic 
     "client_id": "202264815644.apps.googleusercontent.com", // client_id from rclone config
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // client_secret from rclone config
-    "refresh_token": "*******", // authorized refresh token from rclone config
-    "root": "0AG1O**********k9PVA" // ROOT_FOLDER from rclone config,
+    "refresh_token": "1//0d0QKCDwGDFoxCgYIARAAGA0SNwF-L9IrgJYF2Y4yQFPKqqjK0NEcDUlHwAiNaWmWYQF3eGQB_Kkv6mdjWMajdXWBfhXWEhEuUbY", // authorized refresh token from rclone config
+    "root": "14e2yr5a70HOQQ-3FpbNu5r49rC_8lp4_" // ROOT_FOLDER from rclone config,
   };
   
   var gd;
